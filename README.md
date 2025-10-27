@@ -30,8 +30,7 @@ The blog showcases my academic reflections, CV, group work experience, skills, a
 
 ## 🌐 Live Website
 
-🔗 *GitHub Pages Link:*  
-(Will appear here after enabling Pages in Settings → Pages)
+🔗https://petermpofu184-hash.github.io/petermpofu184.github.io/
 
 ---
 
