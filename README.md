@@ -1,4 +1,4 @@
-# 🎓 Digital Portfolio Blog – Peter Junior Mpofu
+# Digital Portfolio Blog  Peter Junior Mpofu
 
 This is my ICT101 Digital Portfolio created using **HTML, CSS, and GitHub Pages**.  
 The blog showcases my academic reflections, CV, group work experience, skills, and application documents for industrial attachment.
