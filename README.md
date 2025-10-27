@@ -52,4 +52,3 @@ The blog showcases my academic reflections, CV, group work experience, skills, a
 
 ---
 
-✅ Feel free to explore the files or use them as a reference for your own portfolio.
