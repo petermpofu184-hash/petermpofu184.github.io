@@ -12,7 +12,7 @@ The blog showcases my academic reflections, CV, group work experience, skills, a
 | `index.html` | Home / About Me page |
 | `cv.html` | Curriculum Vitae (CV/Resume) |
 | `reflection.html` | Academic Journey Reflection |
-| `group-work.html` | Group Work Reflection (Tuckman’s Model) |
+| `group-work.html` | Group Work Reflection |
 | `skills.html` | Skills and Projects page |
 | `application.html` | Industrial Attachment Application Letter |
 | `email.html` | Formal email template to HR or company |
